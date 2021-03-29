@@ -3,4 +3,4 @@ An application that includes instant analysis of weather data from sensors via s
 
 
  # Application Screen Images 
-<img src=/main/ScreenShot/ss.png width="400" height="700">
+<img src=/src/main/ScreenShot/ss.png width="400" height="700">
