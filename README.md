@@ -3,4 +3,4 @@ An application that includes instant analysis of weather data from sensors via s
 
 
  # Application Screen Images 
-<img src=/Spark_IoT_Weather_Realtime/src/main/ScreenShot/ss.PNG >
+<img src=/src/main/ScreenShot/ss.PNG width="800" height="700" >
